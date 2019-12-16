@@ -1,5 +1,5 @@
-# bottlewaste-rpi
-A server-client based classifier attached with a robot.
+# Bottler
+A server-client based bottle classifier attached with a robot to clean bottles from sea.
 
 ## System Structure
 ![system_archi.png](system_archi.png)
