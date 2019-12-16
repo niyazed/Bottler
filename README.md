@@ -1,3 +1,4 @@
+![bottler.png](bottler.png)
 # Bottler
 A server-client based bottle classifier attached with a robot to clean bottles from sea.
 
