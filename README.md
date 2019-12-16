@@ -12,7 +12,7 @@ A server-client based bottle classifier attached with a robot to clean bottles f
 - Arduino
 ```
 ## Usage
-#### For stream the PI camera module as server run following command -
+#### For streaming PI camera module as a server run following command -
 ``` python
     $ python stream_vfeed.py
 ```
