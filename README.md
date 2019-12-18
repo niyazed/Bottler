@@ -24,3 +24,5 @@ A server-client based bottle classifier attached with a robot to clean bottles f
 ``` python
     $ python to_arduino.py
 ```
+## Demo Photo
+ <img src="demo-pic.jpg" alt="demo" height="600" width="800">
