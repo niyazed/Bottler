@@ -5,11 +5,19 @@ A server-client based bottle classifier attached with a robot to clean bottles f
 ## System Structure
 ![system_archi.png](system_archi.png)
 
-## Hardware
+## Hardwares
 ```
 - Raspberry PI 3B
 - PI camera module
 - Arduino
+```
+## Dependencies
+```
+- tensorflow
+- opencv-python
+- numpy
+- paho-mqtt
+- RPi.GPIO
 ```
 ## Usage
 #### For streaming PI camera module as a server run following command -
